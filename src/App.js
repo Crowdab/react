@@ -1,6 +1,5 @@
 import Hello from "./component/Hello";
 import Welcome from "./component/Welcome";
-import World from "./component/World";
 
 function App() {
   //변수
